@@ -9,6 +9,8 @@ If you have any questions or would like to get into contact, please feel free to
 
 ### :hammer_and_wrench: Tools
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mongodb,react,express,figma,postman,py,vite" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,java,py,nodejs,spring,mongodb,postgres,react,redux,express,cypress" />
+  </a>
 </div>
 
